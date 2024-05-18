@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900004561811",
+    "project_id": "saasaki-task",
+    "storage_bucket": "saasaki-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900004561811:android:1220f62a274f352f41de66",
+        "android_client_info": {
+          "package_name": "com.example.saaski_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSZR7HFWjGAwMTb7iWY0HPvnjkNALeppI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
